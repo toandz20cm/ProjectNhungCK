@@ -1,0 +1,11 @@
+../Core/Src/main.c:13:6:GPIO_Config	4	static
+../Core/Src/main.c:21:6:UART2_Config	4	static
+../Core/Src/main.c:27:6:UART2_SendChar	16	static
+../Core/Src/main.c:32:6:UART2_SendString	16	static
+../Core/Src/main.c:36:6:ADC_Config	4	static
+../Core/Src/main.c:44:10:ADC_Read	4	static
+../Core/Src/main.c:50:5:ADC_to_mV	24	static
+../Core/Src/main.c:55:5:Estimate_Gas_PPM	72	static
+../Core/Src/main.c:68:6:Sort_Array	32	static
+../Core/Src/main.c:81:5:Median_Filter	40	static
+../Core/Src/main.c:88:5:main	80	static
